@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "USA-RedDragon/Werewolf-mata",
+    "target_path": "kernel/essential/msm8998",
+    "branch": "o-mr1",
+    "remote": "github"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_essential",
+    "target_path": "vendor/essential",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  }
+]
