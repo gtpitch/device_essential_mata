@@ -1,0 +1,12 @@
+[
+  {
+    "repository" : "LineageOS/android_kernel_essential_msm8998",
+    "target_path": "kernel/essential/msm8998",
+    "branch"     : "lineage-15.1"
+  },
+  {
+    "repository" : "TheMuppets/proprietary_vendor_essential",
+    "target_path": "vendor/essential",
+    "branch"     : "lineage-15.1"
+  }
+]
