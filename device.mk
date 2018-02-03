@@ -164,7 +164,7 @@ PRODUCT_COPY_FILES += \
     device/essential/mata/keylayout/uinput-fpc.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-fpc.kl
 
 # Gapps
-$(call inherit-product, vendor/pixelgapps/pixel-gapps.mk)
+#$(call inherit-product, vendor/pixelgapps/pixel-gapps.mk)
 
 # Gatekeeper HAL
 PRODUCT_PACKAGES += \
